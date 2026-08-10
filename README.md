@@ -6,7 +6,7 @@
   <img src = "https://i.postimg.cc/SxRP3ywr/2026-08-09-18-23-41.jpg)" width="500" alt="Logo" draggable="false">
  <h5> Май/ор мой рабочий псевдоним. Можете называть меня Ландау или, по классике, Виктором. Я принимаю любые сокращения.
    <header>
-      <h6>  8w9 sp8so63 VFEL SLE. phlegmatic-choleric  </h6>    
+      <h6>  8w9 sp8sx63 VFEL SLE. phlegmatic-choleric  </h6>    
       <h6>  никакой жалости к большинству..  </h6>    <!DOCTYPE html> 
 <html>
 <header>
